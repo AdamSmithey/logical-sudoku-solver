@@ -1,0 +1,3 @@
+/Users/adamsmithey/Programming/LogicalSudokuSolver/build/CMakeFiles/LogicalSudokuSolver.dir
+/Users/adamsmithey/Programming/LogicalSudokuSolver/build/CMakeFiles/edit_cache.dir
+/Users/adamsmithey/Programming/LogicalSudokuSolver/build/CMakeFiles/rebuild_cache.dir
